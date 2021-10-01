@@ -1,14 +1,14 @@
 module.exports = {
     app: {
-        px: 'XXX',
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        px: '#',
+        token: 'ODkzNTgzMzQzNzcyMzkzNTEz.YVdkVw.g_Dx__P5om_UXDjDrE9bC556A4E',
+        playing: 'Zeyad',
     },
 
     opt: {
         DJ: {
             enabled: false,
-            roleName: 'DJ',
+            roleName: 'Zeyad',
             commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'seek', 'shuffle', 'skip', 'stop', 'volume']
         },
         maxVol: 100,
